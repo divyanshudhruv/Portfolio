@@ -19,6 +19,10 @@
 🥚 **Easter Eggs**
 * There Are Some `Easter Eggs` Hidden In The Website!
 ---------------------
+🏷️ **Version**
+* > v 0.1 - Published
+* > v 0.2 - Soon
+* ----------------
 🤖 **Discord** 
 - [Click To Join](https://discord.gg/s3CkNtuG)
 --------------------- 
