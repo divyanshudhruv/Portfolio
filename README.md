@@ -3,8 +3,7 @@
 
 📑 **Description**
 * A Simple Website Made With `HTML` , `CSS` And `JavaScript`
-* U Can See The **Website** At (`Not Yet Published!`) - https://divyanshudhruv.github.io/Portfolio/
-* Hope I Will `Publish` It Soon! 😉
+* U Can See The **Website** At - https://divyanshudhruv.github.io/Portfolio/
 ----------------------
 
 ‼️ **Problems**
